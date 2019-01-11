@@ -1,5 +1,5 @@
 <nav>
-	<h1>PHP Study</h1>
+	<h1>Expenses</h1>
 	<ul>
 		<li>
 			<a href="index.php">HOME</a>

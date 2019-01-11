@@ -56,11 +56,11 @@
         <br>
         <input type="number" name="transport">Transportation
         <br>
-        <input type="number" name="transport">Utilities
+        <input type="number" name="util">Utilities
         <br>
         <input type="number" name="entertainment">Entertainment
         <br>
-        <input type="number" name="entertainment">Travel
+        <input type="number" name="travel">Travel
 		<br>
 		<input type="submit" value="submit">
 	</form>
